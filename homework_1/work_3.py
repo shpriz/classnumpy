@@ -20,4 +20,4 @@ print(a_centered)
 # решение задачи 3
 a_centered_sp = np.dot(a_centered[:, 0], a_centered[:, 1])
 a_centered_size = a_centered.size
-print(a_centered_sp / a_centered_size)
+print(a_centered_sp / (a_centered_size - 1))
