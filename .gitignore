@@ -1,0 +1,5 @@
+/bin
+/obj
+*.pdb
+*.exe
+/.ipynb_checkpoints
